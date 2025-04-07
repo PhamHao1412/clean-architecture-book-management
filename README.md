@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # clean-architechture-book-management
-=======
-# MyProject Web API
-
 ## Overview
 
 Welcome to MyProject Web API, a robust and scalable web application built using .NET Core and organized following Clean Architecture principles. This architecture ensures a clear separation of concerns, facilitating maintainability, testability, and scalability of the application.
@@ -74,4 +70,3 @@ Acknowledgements
 
 - Clean Architecture by Milan Jovanović
 - .NET Core Documentation
->>>>>>> master
